@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Sangale</h1>
 <h3 align="center">DevOps | Cloud Enthusiast | Kubernetes | Jenkins | Docker | AWS | CI/CD</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikas8773&theme=flat&no-frame=true&row=1" /></a> </p>
-
 - 📫 How to reach me **sanglev729@gmail.com**
 
 ### 👨‍💻 About Me
